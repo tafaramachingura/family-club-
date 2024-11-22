@@ -1,0 +1,46 @@
+.login{
+	margin-top:10%;
+	margin-left:35%;
+}
+.register{
+	padding:10px;
+	
+	margin-left:20%;
+
+}
+
+.register-head{
+	text-align:center;
+
+
+	width:65%;
+	padding:10px;
+	color:#fff;
+}
+.py{
+
+width:100px;
+}
+
+
+            #view{
+                 background-color: rgba(0, 0, 0, 0.4);
+                position: fixed;
+                height:100%;
+                left:0;
+                top:0;
+                right:0;
+                z-index:100;
+                width:100%;
+                display:none;
+            }
+#inner-view{
+                background-color:#fff;
+                width:630px;
+                height:450px;
+                box-shadow:0 1px 18px rgba(23,23,23,.23);
+                position:fixed;
+             padding:10px;
+                top:100px;
+                left:300px;
+            }

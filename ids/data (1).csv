@@ -1,0 +1,15 @@
+name,surname,"Home Address",CellNumber,Email,Gender
+ruby,machi,tatso@gmail.com,784612186,tso@gmail.com,male
+"tithe Paid",amount,"date Paid","Month Of"
+yes,567,2021-03-09,December
+yes,567,2021-03-09,November
+yes,567,2021-03-09,October
+yes,567,2021-03-09,September
+yes,567,2021-03-09,August
+yes,567,2021-03-09,July
+yes,567,2021-03-09,June
+yes,567,2021-03-09,May
+yes,567,2021-03-09,April
+yes,567,2021-03-09,March
+yes,567,2021-03-09,February
+yes,567,2021-03-09,January
